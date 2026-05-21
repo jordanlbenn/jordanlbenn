@@ -24,6 +24,8 @@ Click the resume preview to open the full PDF.
 </p>
 
 
+=======
+
 ## 🛠️ What I’m Currently Working On
 
 - Security Operations & Incident Response Fundamentals  
@@ -35,7 +37,6 @@ Click the resume preview to open the full PDF.
 - Governance, Risk & Compliance (GRC) Projects  
 - Building more hands-on home lab and technical security projects  
 
-—
 
 ## 📂 Featured Projects
 
@@ -48,7 +49,6 @@ Click the resume preview to open the full PDF.
 - 📑 Mock Internal Security Audit  
 - 🧰 IT Support Troubleshooting Scenarios  
 
-—
 
 ## 💻 Technical Skills
 
@@ -78,13 +78,12 @@ Click the resume preview to open the full PDF.
 - Wireshark (Learning)  
 - SIEM Fundamentals  
 
-—
 
 ## 📑 Certifications
 
 - ISC2 Certified in Cybersecurity (CC) — In Progress  
 
-—
+---
 
 ## 📫 Connect With Me
 
@@ -101,3 +100,4 @@ Click the resume preview to open the full PDF.
     <img src=“https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white” />
   </a>
 </p>
+
