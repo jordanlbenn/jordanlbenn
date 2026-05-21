@@ -1,4 +1,4 @@
-# 👋🏾 Hey, I’m Jordan
+## 👋🏾 Hey, I’m Jordan
 
 🎓 Computer Information Systems graduate from the University of Pittsburgh at Bradford  
 🔐 Exploring cybersecurity, IT infrastructure, security operations, and GRC  
@@ -8,9 +8,23 @@ I enjoy learning how technology, cybersecurity, and business operations connect 
 
 Outside of cybersecurity, I’m interested in community leadership, technology accessibility, fitness, and continuously finding ways to grow both technically and professionally.
 
-—
 
-# 🛠️ What I’m Currently Working On
+## 📄 Resume Preview
+
+<a href=“/resume/Jordan_Bennett_Resume_SC.pdf”>
+
+  <img src=“/images/resume-preview.jpeg” width=“700”/>
+
+</a>
+
+<p>
+
+Click the resume preview to open the full PDF.
+
+</p>
+
+
+## 🛠️ What I’m Currently Working On
 
 - Security Operations & Incident Response Fundamentals  
 - Vulnerability Management & Risk Analysis  
@@ -23,7 +37,7 @@ Outside of cybersecurity, I’m interested in community leadership, technology a
 
 —
 
-# 📂 Featured Projects
+## 📂 Featured Projects
 
 - 🔍 Security Analysis Log  
 - 🛡️ Vulnerability Assessment Report  
@@ -36,9 +50,9 @@ Outside of cybersecurity, I’m interested in community leadership, technology a
 
 —
 
-# 💻 Technical Skills
+## 💻 Technical Skills
 
-## Cybersecurity
+### Cybersecurity
 - Security Awareness  
 - Risk Assessment  
 - Vulnerability Analysis  
@@ -46,7 +60,7 @@ Outside of cybersecurity, I’m interested in community leadership, technology a
 - Incident Response Fundamentals  
 - Governance, Risk & Compliance (GRC)  
 
-## IT & Systems
+### IT & Systems
 - Windows Administration  
 - Linux Fundamentals  
 - Active Directory  
@@ -54,7 +68,7 @@ Outside of cybersecurity, I’m interested in community leadership, technology a
 - Networking Fundamentals  
 - Hardware & Software Support  
 
-## Tools & Technologies
+### Tools & Technologies
 - Python  
 - PowerShell (Beginner)  
 - Git & GitHub  
@@ -66,13 +80,24 @@ Outside of cybersecurity, I’m interested in community leadership, technology a
 
 —
 
-# 📑 Certifications
+## 📑 Certifications
 
 - ISC2 Certified in Cybersecurity (CC) — In Progress  
 
 —
 
-# 📫 Connect With Me
-- View Resume: 
-- LinkedIn: www.linkedin.com/in/jordan-l-bennett  
-- Email: jordanlbenn@gmail.com
+## 📫 Connect With Me
+
+<p align=“left”>
+  <a href=“https://www.linkedin.com/in/jordan-l-bennett”>
+    <img src=“https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white” />
+  </a>
+
+  <a href=“mailto:jordanlbenn@gmail.com”>
+    <img src=“https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white” />
+  </a>
+
+  <a href=“https://github.com/jordanlbenn”>
+    <img src=“https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white” />
+  </a>
+</p>
