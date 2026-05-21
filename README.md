@@ -8,9 +8,8 @@ I enjoy learning how technology, cybersecurity, and business operations connect 
 
 Outside of cybersecurity, I’m interested in community leadership, technology accessibility, fitness, and continuously finding ways to grow both technically and professionally.
 
-—
 
-# 🛠️ What I’m Currently Working On
+## 🛠️ What I’m Currently Working On
 
 - Security Operations & Incident Response Fundamentals  
 - Vulnerability Management & Risk Analysis  
@@ -21,9 +20,8 @@ Outside of cybersecurity, I’m interested in community leadership, technology a
 - Governance, Risk & Compliance (GRC) Projects  
 - Building more hands-on home lab and technical security projects  
 
-—
 
-# 📂 Featured Projects
+## 📂 Featured Projects
 
 - 🔍 Security Analysis Log  
 - 🛡️ Vulnerability Assessment Report  
@@ -34,11 +32,10 @@ Outside of cybersecurity, I’m interested in community leadership, technology a
 - 📑 Mock Internal Security Audit  
 - 🧰 IT Support Troubleshooting Scenarios  
 
-—
 
-# 💻 Technical Skills
+## 💻 Technical Skills
 
-## Cybersecurity
+### Cybersecurity
 - Security Awareness  
 - Risk Assessment  
 - Vulnerability Analysis  
@@ -46,7 +43,7 @@ Outside of cybersecurity, I’m interested in community leadership, technology a
 - Incident Response Fundamentals  
 - Governance, Risk & Compliance (GRC)  
 
-## IT & Systems
+### IT & Systems
 - Windows Administration  
 - Linux Fundamentals  
 - Active Directory  
@@ -54,7 +51,7 @@ Outside of cybersecurity, I’m interested in community leadership, technology a
 - Networking Fundamentals  
 - Hardware & Software Support  
 
-## Tools & Technologies
+### Tools & Technologies
 - Python  
 - PowerShell (Beginner)  
 - Git & GitHub  
@@ -64,15 +61,14 @@ Outside of cybersecurity, I’m interested in community leadership, technology a
 - Wireshark (Learning)  
 - SIEM Fundamentals  
 
-—
 
-# 📑 Certifications
+## 📑 Certifications
 
 - ISC2 Certified in Cybersecurity (CC) — In Progress  
 
-—
+---
 
-# 📫 Connect With Me
-- View Resume: 
+## 📫 Connect With Me
+- View Resume: [Jordan_Bennett_Resume_SC.pdf] (https://github.com/user-attachments/files/28080998/Jordan_Bennett_Resume_SC.pdf)
 - LinkedIn: www.linkedin.com/in/jordan-l-bennett  
 - Email: jordanlbenn@gmail.com
