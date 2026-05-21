@@ -11,7 +11,7 @@ Outside of cybersecurity, I’m interested in community leadership, technology a
 
 ## 📄 Resume Preview
 
-<a href=“./resume/Jordan_Bennett_Resume_SC.pdf”>
+<a href=“https://github.com/jordanlbenn/jordanlbenn/blob/main/resume/Jordan_Bennett_Resume_SC.pdf”>
   <img src=“./images/resume-preview.jpeg” width=“700”/>
 </a>
 
