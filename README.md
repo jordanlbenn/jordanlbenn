@@ -11,9 +11,9 @@ Outside of cybersecurity, I’m interested in community leadership, technology a
 
 ## 📄 Resume Preview
 
-<a href=“./resume/Jordan_Bennett_Resume_SC.pdf”>
+<a href=“resume/Jordan_Bennett_Resume_SC.pdf”>
 
-  <img src=“./images/resume-preview.jpeg” width=“700”/>
+  <img src=“images/resume-preview.jpeg” width=“700”/>
 
 </a>
 
@@ -95,7 +95,7 @@ Click the resume preview to open the full PDF.
     <img src=“https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white”>
   </a>
 
-  <a href=“https://github.com/YOURUSERNAME”>
+  <a href=“https://github.com/jordanlbenn”>
     <img src=“https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white”>
   </a>
 </p>
