@@ -24,7 +24,6 @@ Click the resume preview to open the full PDF.
 </p>
 
 
-=======
 
 ## 🛠️ What I’m Currently Working On
 
@@ -89,15 +88,15 @@ Click the resume preview to open the full PDF.
 
 <p align=“left”>
   <a href=“https://www.linkedin.com/in/jordan-l-bennett”>
-    <img src=“https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white” />
+    <img src=“https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white”>
   </a>
 
   <a href=“mailto:jordanlbenn@gmail.com”>
-    <img src=“https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white” />
+    <img src=“https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white”>
   </a>
 
-  <a href=“https://github.com/jordanlbenn”>
-    <img src=“https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white” />
+  <a href=“https://github.com/YOURUSERNAME”>
+    <img src=“https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white”>
   </a>
 </p>
 
