@@ -1,9 +1,10 @@
 # 👋🏾 Hey, I'm Jordan
 
-🎓 University of Pittsburgh Alumna 26'
-💼 Systems Integrator I supporting research operations @ Meta
-🔧 Passionate about IT infrastructure, systems integration, and security-minded technology solutions  
-💻 Interested in all things technology!
+### 🎓 University of Pittsburgh Alumna 26'
+### 💼 Systems Integrator I supporting research operations @ Meta
+### 🔧 Passionate about IT infrastructure, systems integration, and security-minded technology solutions  
+### 💻 Interested in all things technology!
+
 ---
 
 ## 🛠️ What I'm Currently Working On
