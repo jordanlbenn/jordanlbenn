@@ -1,81 +1,91 @@
-## 👋🏾 Hey, I’m Jordan
+# 👋🏾 Hey, I'm Jordan
 
 🎓 Computer Information Systems graduate from the University of Pittsburgh at Bradford  
-🔐 Exploring cybersecurity, IT infrastructure, security operations, and GRC  
-💻 Interested in hands-on technical projects, problem-solving, and security-focused systems  
+💼 Systems Integrator I supporting research operations @ Meta
+🔧 Passionate about IT infrastructure, systems integration, technical troubleshooting, and security-minded technology solutions  
+💻 Interested in bridging technology, operations, and user support to keep systems running efficiently and securely
 
-I enjoy learning how technology, cybersecurity, and business operations connect in real-world environments. Most of my projects focus on building practical experience through security analysis, IT troubleshooting, governance projects, scripting, documentation, and technical labs.
+---
 
-Outside of cybersecurity, I’m interested in community leadership, technology accessibility, fitness, and continuously finding ways to grow both technically and professionally.
+## 🛠️ What I'm Currently Working On
 
+- Systems Integration & Research Operations Support
+- IT Infrastructure & Technical Troubleshooting
+- Windows Administration & Enterprise Technologies
+- Network Connectivity & System Diagnostics
+- Governance, Risk & Compliance (GRC) Initiatives
+- Security Operations & Incident Response Fundamentals
+- Process Improvement & Technical Documentation
+- Python Automation & Workflow Optimization
+- Building hands-on labs focused on networking, security, and system administration
 
-## 📄 Resume Preview
-
-<a href=“https://github.com/jordanlbenn/jordanlbenn/blob/main/resume/Jordan_Bennett_Resume_SC.pdf”>
-  <img src=“./images/resume-preview.jpeg” width=“700”/>
-</a>
-
-<p>
-Click the resume preview to open the full PDF.
-</p>
-
-
-## 🛠️ What I’m Currently Working On
-
-- Security Operations & Incident Response Fundamentals  
-- Vulnerability Management & Risk Analysis  
-- IT Support & Systems Troubleshooting  
-- Network Security Concepts  
-- Python & Security Automation Basics  
-- Active Directory & Windows Administration  
-- Governance, Risk & Compliance (GRC) Projects  
-- Building more hands-on home lab and technical security projects  
-
+---
 
 ## 📂 Featured Projects
 
-- 🔍 Security Analysis Log  
-- 🛡️ Vulnerability Assessment Report  
-- 🖥️ Active Directory User Management Lab  
-- 📊 Interactive Risk Assessment Dashboard  
-- 📡 Network Security & Troubleshooting Labs  
-- ⚠️ Phishing Awareness Simulation  
-- 📑 Mock Internal Security Audit  
-- 🧰 IT Support Troubleshooting Scenarios  
+- 🔐 Encryption Decision Implementation System (EDIS)
+- 📊 Interactive Risk Assessment Dashboard
+- 📑 Mock Internal Security Audit
+- 🛡️ Vulnerability Assessment Report
+- 🌐 Network Security & Troubleshooting Labs
+- 🖥️ Active Directory User Management Lab
+- 🎓 Security Awareness Training Portal
+- 📈 Reddit Sentiment Analysis Research Project
 
+---
 
 ## 💻 Technical Skills
 
-### Cybersecurity
-- Security Awareness  
-- Risk Assessment  
-- Vulnerability Analysis  
-- Security Documentation  
-- Incident Response Fundamentals  
-- Governance, Risk & Compliance (GRC)  
+### Systems & Infrastructure
+- Windows 10/11 Administration
+- Active Directory
+- User & Account Management
+- Technical Troubleshooting
+- Hardware & Software Support
+- System Documentation
+- Network Fundamentals
+- Remote Support
 
-### IT & Systems
-- Windows Administration  
-- Linux Fundamentals  
-- Active Directory  
-- Technical Troubleshooting  
-- Networking Fundamentals  
-- Hardware & Software Support  
+### Security & Risk
+- Risk Assessment
+- Vulnerability Analysis
+- Security Awareness
+- Security Documentation
+- Incident Response Fundamentals
+- Governance, Risk & Compliance (GRC)
+- Security Monitoring Concepts
+- Access Control & Identity Management
 
 ### Tools & Technologies
-- Python  
-- PowerShell (Beginner)  
-- Git & GitHub  
-- Microsoft Excel  
-- Microsoft Office  
-- Virtual Machines  
-- Wireshark (Learning)  
-- SIEM Fundamentals  
+- Python
+- PowerShell (Beginner)
+- Git & GitHub
+- SQL
+- Microsoft Excel
+- Microsoft Office Suite
+- Virtual Machines
+- Wireshark
+- Nmap
+- Linux (Ubuntu/CentOS)
+- Flask
+- SQLite
 
+---
 
 ## 📑 Certifications
 
-- ISC2 Certified in Cybersecurity (CC) — In Progress  
+- ISC2 Certified in Cybersecurity (CC) — In Progress
+
+---
+
+## 🎯 Career Interests
+
+- Systems Integration
+- IT Support & Infrastructure
+- Governance, Risk & Compliance (GRC)
+- Security Operations
+- Technical Operations
+- Enterprise Technology Support
 
 ---
 
