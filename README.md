@@ -1,10 +1,9 @@
 # 👋🏾 Hey, I'm Jordan
 
-🎓 Computer Information Systems graduate from the University of Pittsburgh at Bradford  
+🎓 University of Pittsburgh Alumna 26'
 💼 Systems Integrator I supporting research operations @ Meta
-🔧 Passionate about IT infrastructure, systems integration, technical troubleshooting, and security-minded technology solutions  
-💻 Interested in bridging technology, operations, and user support to keep systems running efficiently and securely
-
+🔧 Passionate about IT infrastructure, systems integration, and security-minded technology solutions  
+💻 Interested in all things technology!
 ---
 
 ## 🛠️ What I'm Currently Working On
@@ -13,7 +12,6 @@
 - IT Infrastructure & Technical Troubleshooting
 - Windows Administration & Enterprise Technologies
 - Network Connectivity & System Diagnostics
-- Governance, Risk & Compliance (GRC) Initiatives
 - Security Operations & Incident Response Fundamentals
 - Process Improvement & Technical Documentation
 - Python Automation & Workflow Optimization
@@ -24,13 +22,6 @@
 ## 📂 Featured Projects
 
 - 🔐 Encryption Decision Implementation System (EDIS)
-- 📊 Interactive Risk Assessment Dashboard
-- 📑 Mock Internal Security Audit
-- 🛡️ Vulnerability Assessment Report
-- 🌐 Network Security & Troubleshooting Labs
-- 🖥️ Active Directory User Management Lab
-- 🎓 Security Awareness Training Portal
-- 📈 Reddit Sentiment Analysis Research Project
 
 ---
 
